@@ -1,4 +1,4 @@
-# Web-Scrapping-Project
+# Web-Scraping-Project
 This project is designed for web crawling, web scraping and interacting with local database and aims to get information of properties from a real estate website. 
 
 
